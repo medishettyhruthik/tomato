@@ -341,7 +341,7 @@ def getMessage():
 @server.route("/")
 def webhook():
     bot.remove_webhook()
-    bot.set_webhook(url='Your_App_Name_Link_Here' + API_TOKEN)
+    bot.set_webhook(url=' https://covid-vs-health-bot.herokuapp.com/' + API_TOKEN)
     return "!", 200
   
   
