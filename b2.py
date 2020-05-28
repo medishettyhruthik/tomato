@@ -7,8 +7,8 @@ from flask import Flask
 import time
 import telebot
 import telegram_send
-from utils import Logger
-from logging import getLogger
+#from utils import Logger
+#from logging import getLogger
 from telebot import types
 import os
 
