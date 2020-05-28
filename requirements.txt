@@ -28,7 +28,7 @@ Pillow==7.1.2
 pycparser==2.20
 pyglet==1.5.0
 pyparsing==2.4.7
-pyTelegramBotAPI==3.7.1
+pyTelegramBotAPI==2.2.3
 python-dateutil==2.8.1
 python-telegram-bot==12.7
 pytz==2020.1
