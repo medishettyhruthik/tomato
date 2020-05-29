@@ -1,5 +1,5 @@
-import werkzeug
-werkzeug.cached_property = werkzeug.utils.cached_property
+#import werkzeug
+#werkzeug.cached_property = werkzeug.utils.cached_property
 from robobrowser import RoboBrowser
 from bs4 import BeautifulSoup
 import flask
