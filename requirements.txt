@@ -46,6 +46,7 @@ telebot==0.0.3
 telegram-send==0.20
 Twisted==18.9.0
 urllib3==1.24.1
+utils==1.0.1
 webdriver-manager==1.7
 webencodings==0.5.1
 Werkzeug==0.14.1
