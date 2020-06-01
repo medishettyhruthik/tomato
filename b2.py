@@ -14,9 +14,7 @@ import utils
 #from logging import getLogger
 import telebot
 from telebot import types
-from telebot import logger
 import datetime
-import logger
 import os
 
 API_TOKEN = '1131080433:AAGkWAIOcnZXRT2VpjUp47ks3s_7odVNr6A'
