@@ -39,7 +39,7 @@ portend==2.2
 pycparser==2.20
 pyglet==1.5.0
 pylint==2.5.2
-pyTelegramBotAPI==3.5.1
+pyTelegramBotAPI==2.2.3
 python-dateutil==2.8.1
 python-telegram-bot==12.7
 pytz==2017.3
