@@ -44,6 +44,6 @@ telegram==0.0.1
 telegram-send==0.25
 tempora==1.10
 tornado==6.0.4
-urllib3==1.22
+urllib3==1.26.5
 utils==0.9.0
 Werkzeug==0.16.1
